@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+}
+.barra-navegacao {
+    height: 70px;
+  width: 100%;
+  background-color: #462755;
+ 
+}
+.barra-navegacao__logotipo {
+  max-height: 70%;
+  max-width: 70%;
+
+}
+.cabecalho__titulo {
+  font-size: 41px;
+  text-align: center;
+  font-family: sans-serif;
+  color: #462755;
+  
+}
+h1 {
+  font-size: 36px;
+}
+main.conteudo-principal {
+  text-align: center;
+  padding: 55px;
+  font-family: monospace;
+  font-size: x-large;
+}
+footer {
+  text-align: -webkit-center;
+  background-color: #462755;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+footer a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: arial;
+}
+button {
+  font-size: 19px;
+}
+input#valor-hora {
+  border-radius: 5px;
+  width: 9%;
+  padding: 0.7rem 0.5rem;
+}
+input#horas-projeto {
+  border-radius: 5px;
+  width: 9%;
+  padding: 0.7rem 0.5rem;
+}
+.campos {
+  padding: 2px;
+  margin-bottom: 15px;
+}
+
+label {
+  width: 238px;
+  display: inline-block;
+}
+span#resposta {
+  background: #dfdfdf;
+  padding: 10px 15px;
+  width: 100%;
+ 
+}
